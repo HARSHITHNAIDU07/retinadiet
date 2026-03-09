@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef, useCallback } from "react";
 
-const API      = "http://localhost:5000/api";
+const API      = "https://retinadiet.vercel.app/api";
 const DIET_API = API;  // diet endpoints live under /api/diet on the same server
 
 // ─── Data ─────────────────────────────────────────────────────────
