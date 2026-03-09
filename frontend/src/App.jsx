@@ -3,7 +3,7 @@ import { useState, useEffect, useRef, useCallback } from "react";
 // ─────────────────────────────────────────────────────────────────
 // CONFIG
 // ─────────────────────────────────────────────────────────────────
-const API = "http://localhost:5000/api";
+const API = "https://retinadiet.vercel.app/api";
 
 // ─────────────────────────────────────────────────────────────────
 // DATA
